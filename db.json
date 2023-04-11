@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "price": "5000000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "description": "okee lắm",
+      "categoryId": "Máy tính"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 11",
+      "price": "7000000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "description": "okee lắm",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Iphone 12",
+      "price": "11000000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "description": "okee lắm",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Iphone 13",
+      "price": "18000000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "description": "okee lắm",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Iphone 14",
+      "price": "21000000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "description": "okee lắm",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Laptop HP Pavilion 15 eg2056TU i5 1240P/8GB/512GB/Win11",
+      "price": "18000000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "description": "okee lắm",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Iphone 15 new",
+      "price": "30000000",
+      "image": "dfghjkl",
+      "description": "chưa ra mắt ",
+      "categoryId": "Máy tính"
+    }
+  ],
+  "category": [
+    {
+      "categoryId": 1,
+      "name": "Telephone"
+    },
+    {
+      "categoryId": 2,
+      "name": "Laptop"
+    },
+    {
+      "categoryId": 3,
+      "name": "Tablet"
+    }
+  ]
+}
